@@ -1,0 +1,41 @@
+:root {
+  --primary-color: #0F62FE;
+  --white-color: #fff;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+}
+
+.default {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+}
+
+.hover {
+  background-color: #054ADA;
+  color: var(--white-color);
+}
+
+.active {
+  background-color: #002D9C;
+  color: var(--white-color);
+}
+
+/* .focus {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+}
+
+.disabled {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+} */

@@ -1,0 +1,31 @@
+:root {
+  font-size: 16px;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font:
+    1rem/1.5 'Barlow', sans-serif;
+
+  /* CSS 중첩 규칙(Nesting Rules) */
+  & * {
+    box-sizing: inherit;
+  }
+}
+
+img {
+  vertical-align: middle;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  font-size: 1rem; /* 16px */
+  padding: 0.8125rem 1.4375rem;
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
