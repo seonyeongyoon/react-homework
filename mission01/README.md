@@ -1,7 +1,8 @@
 # React 1차 과제
 
 Figma를 사용해 아토믹(atomic) 컴포넌트를 설계(design)한 후, 리액트 컴포넌트로 구현하기.
-<a href="https://www.figma.com/file/Y0TXm135lKXpJNPIcGkMjf/Atomic-Component?type=design&node-id=1%3A35&mode=dev">Figma-Link</a>
+<br>
+<a href="https://www.figma.com/file/Y0TXm135lKXpJNPIcGkMjf/Atomic-Component?type=design&node-id=1%3A35&mode=dev">피그마 링크</a>
 <br>
 Figma 디자인
 ![image](https://github.com/seonyeongyoon/react-homework/assets/66238849/f09bedea-6fe9-42fd-92d5-7eda80e5d09f)
