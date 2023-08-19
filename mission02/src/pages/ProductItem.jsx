@@ -6,7 +6,7 @@ export default function ProductItem({ item }) {
       <figure>
         <img
           src={getPbImageURL(item, 'photo')}
-          className="h-96 w-auto border-b border-black"
+          className="w-full border-b border-black"
           alt=""
         />
         <figcaption className='p-2'>
