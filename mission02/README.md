@@ -2,9 +2,12 @@
 
 react-router-dom을 이용하여 여러 서브 페이지가 있는 쇼핑몰 웹사이트를 제작해보았습니다.
 <br/>
+<br/>
 ![screencapture-localhost-3000-2023-08-20-02_23_02](https://github.com/seonyeongyoon/react-homework/assets/66238849/cdea65e8-d334-4688-a227-c3c6639a23d7)
 <br/>
+<br/>
 pocketbase로 데이터를 설계 후, 만든 데이터를 useFetchData hook을 이용하여 불러온 뒤 화면에 렌더링해주었습니다.
+<br/>
 <br/>
 ![image](https://github.com/seonyeongyoon/react-homework/assets/66238849/631c1204-0fc0-45ef-a641-6d323c165187)
 <br/>
