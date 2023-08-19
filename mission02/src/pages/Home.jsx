@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="wrap">
       <Category />
-      <div>
+      <div className="border-b border-black">
         <a href="/shop">
           <img src="./src/assets/visual.gif" alt=""/>
         </a>

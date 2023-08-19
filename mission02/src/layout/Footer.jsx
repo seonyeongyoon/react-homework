@@ -20,7 +20,6 @@ function Footer() {
                 <p>고객센터</p>
                 <p>070-5038-0989</p>
             </li>
-
             <li>
                 <p>MONDAY-FRIDAY</p>
                 <p>11:00-18:00</p>
@@ -28,8 +27,6 @@ function Footer() {
                 <p>BRAKE TIME</p>
                 <p>13:00-14:00</p>
             </li>
-
-
             <li>
                 <p>CS 관련 문의(buy_cs@buyinternational.co.kr)</p>
                 <p>온라인 관련 제휴/제안 (earpearp_online@buyinternational.co.kr)</p>
